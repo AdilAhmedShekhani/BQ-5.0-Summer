@@ -1,3 +1,17 @@
+/* Styling Using Selector  */
+
 h1 {
     color: red;
+}
+
+/* Styling using ID */
+
+#Head1 {
+    color: blue;
+}
+
+/* Styling Using Class */
+
+.Head2 {
+    color: yellow;
 }
